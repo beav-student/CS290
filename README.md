@@ -1,2 +1,2 @@
 # CS290
-Repository for CS 290 class at Oregon State University.
+Repository for CS 290 class.
